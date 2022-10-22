@@ -1,0 +1,17 @@
+A full-stack developer most times is a Web developer who builds scalable cross-platform (web) application.
+This implies that he may be saddled with the responsibility of building both the front and backend of an application.
+It is not out of place for a full-stack developer to be limited to the understanding of HTML, CSS, JS and a serverside scripting 
+language, but the Industry has made it that before a developer will reach the status of a full-stack developer,
+s/he should have mastered in addition to the foundational subjects, a framework in the frontend department and a framework in the backend department.
+
+For example, someone can be considered a full-stack if he can effectively combine NEXT.js and django to build a scalable functional application etc
+
+A full stack developer will understand the following (in no specific order)
+1. HTML, CSS, JS
+2. VCS (GIT or Bitbucket)
+3. A CSS framework (tailwind, bootstrap or material...)
+4. A JavaScript framework (for frontend - Reactjs, Nextjs, Angular or any other)
+5. A scripting lang (PHP, Python, Go, JavaScript etc)
+6. A serverside (5 above) framework (laravel, django, etc)
+7. DB engine (Postgres, Sql, No Sql etc)
+8. Testing
